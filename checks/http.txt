@@ -1,0 +1,5 @@
+GTAXLnet Website;https://gtaxl.net;443;no;7403583183@tmomail.net
+Jetstream;http://home.gtaxl.net;80;no;7403583183@tmomail.net
+Knox County Career Center;http://knoxcountycc.org;80;no;gtaxl@gtaxl.net
+Mount Vernon City School;http://mvcsd.us;80;no;gtaxl@gtaxl.net
+CakeForce.co.uk Website;http://cakeforce.co.uk;80;no;dg@gtaxl.net
