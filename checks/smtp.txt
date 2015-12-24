@@ -1,0 +1,3 @@
+GTAXLnet Mail [ATL1];mail.gtaxl.net;25;gtaxl@gtaxl.net;7403583183@tmomail.net
+Tim's Mail;mail.gtaxl.net;68;bob@gtaxl.net;7403583183@tmomail.net
+G-Mail;gmail-smtp-in.l.google.com;25;mastergta2@gmail.com;7403583183@tmomail.net
